@@ -23,6 +23,6 @@ module top_module(
         endcase
     end
 
-    assign out = (cur == D);// Output logic
+    assign out = (cur == D);
 
 endmodule
